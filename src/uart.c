@@ -4,6 +4,7 @@
 #include <avr/io.h>
 #include <stdio.h>
 #include <uart.h>
+#include <string.h>
 
 #ifndef F_CPU
 #define F_CPU 16000000UL
