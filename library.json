@@ -1,6 +1,6 @@
 {
     "name": "peripherals",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple, fast wrapper to access GPIO, I2C, SPI, UART interfaces in C language",
     "keywords": "arduino, i2c, spi, uart, c",
     "repository":
