@@ -2,8 +2,6 @@
 #define SPI_H
 
 #include <stdint.h>
-#include <avr/io.h>
-#include <avr/interrupt.h>
 #include <pin.h>
 
 enum spi_mode
